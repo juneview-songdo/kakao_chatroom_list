@@ -1,7 +1,7 @@
 name: kakao_chatroom_list
-description: "Description here"
+description: "Kakao Chatroom List"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/kakao_chatroom_list
 
 version: 1.0.0+1
 

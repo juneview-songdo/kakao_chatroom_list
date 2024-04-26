@@ -13,9 +13,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/kakao_chatroom_list/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/kakao_chatroom_list/assets/21379657/1ae9f629-65fc-4655-9a21-65d014510a9a)
 
