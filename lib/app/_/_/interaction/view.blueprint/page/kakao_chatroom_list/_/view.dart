@@ -20,7 +20,7 @@ class NewViewState extends State<NewView> with StateMother {
       child: Scaffold(
         backgroundColor: Theme.of(context).colorScheme.background,
         appBar: AppBar(
-          title: Text("Friends")
+          title: Text("Chat")
               .textStyle(Theme.of(context).textTheme.titleLarge!)
               .fontWeight(FontWeight.bold),
           actions: [
